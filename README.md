@@ -1,2 +1,24 @@
-# Excel-Data-Cleaning-Practice-
-Excel Data Cleaning Project demonstrating data preparation, validation, duplicate detection, missing value handling, and data quality improvement techniques used in real-world analytics.
+# Excel Data Cleaning Pract
+
+## Skills Used
+
+- TRIM
+- PROPER
+- IF
+- COUNTIF
+- Conditional Formatting
+- Data Validation
+- Pivot Tables
+
+## Tasks Completed
+
+- Removed Extra Spaces
+- Standardized Names
+- Validated Emails
+- Fixed Date Formats
+- Removed Duplicates
+- Created Pivot Analysis
+
+## Tools
+
+Microsoft Excel
